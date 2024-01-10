@@ -1,0 +1,12 @@
+
+def update_script(search_string, stop_string):
+    start_index = None
+    end_index = None
+    with open('script_file.py', 'r') as f:
+        for index, line in enumerate(f):
+            if search_string in line:
+                start_index = index
+            if stop_string in line:
+                end_index = index
+                break
+    return start_index, end_index

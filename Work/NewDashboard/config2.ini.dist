@@ -1,0 +1,6 @@
+
+[snowflake]
+username=
+warehouse=POS_REPORT_PROD
+role=
+database=NGP_DA_PROD

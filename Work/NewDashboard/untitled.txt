@@ -1,0 +1,8 @@
+
+
+The POS_T.POS_RTLR_SC_TREND_AGG_D0316 and the POS_T.POS_CHNL_MCCF_SC_TREND_AGG are matching based on the query
+
+the 2 dashboards are matching each other, but the numbers are slightly inconsistant when I compare the base tables with the dashboards, I believe that this is due to the refreshing of the dashboards that happened today.
+
+I will run the query tomorrow
+

@@ -1,0 +1,25 @@
+Exercise	                SkillImprovement            Reps    Venue	Spot	        Notes
+Dinks	                    Dinks	                    50      Wall	7 Feet away	    Always use spin
+Alternating Dinks	        Dinks	                    50      Wall	7 Feet away	    Always use spin
+Moving Dinks	            Dinks Control	            20      Wall	7 Feet away
+Alternating Moving Dinks	Dinks Control	            20      Wall	7 Feet away
+Volleys	                    Volleys	                    50      Wall	7 Feet away
+Bounce Double Tap Volleys	Volleys and Control	        10      Wall	7 Feet away
+Double Tap Bounce Volleys	Volleys and Control	        10      Wall	7 Feet away
+Double Tap Volleys	        Volleys and Control	        20      Wall	7 Feet away
+Alternating Volleys	        Volleys	                    50      Wall	7 Feet away
+Moving Volleys	            Volleys and Control	        30      Wall	7 Feet away
+Alternating Moving Volleys	Volleys and Control	        30      Wall	7 Feet away
+Volley Reset	            Pacing Control	            25      Wall	7 Feet away
+2x Volley Reset	            Pacing Control	            20      Wall	7 Feet away
+3x Volley Reset	            Pacing Control	            10      Wall	7 Feet away
+Overhead Catch	            Overhead	                20      Wall	7 Feet away
+Overhead Smash	            Overhead	                20      Wall	7 Feet away
+Blocks	                    Control and Reaction	    20      Wall	7 Feet away	    drive against wall first
+Drops	                    Control	                    20      Wall	7 Feet away
+Groundstrokes	            Groundstrokes	            25      Wall	Baseline
+Alternating Groundstrokes	Groundstrokes	            20      Wall	Baseline
+Groundstroke Reset	        Groundstrokes and Control	20      Wall	Baseline
+Static Drop Shots		                                Many    Court   Drives, Backspin, Cuts, Lobs, Drops, Dinks
+Dynamic Drop Shots		                                Many    Court	Drives, Backspin, Cuts, Lobs, Drops, Dinks
+Serves		                                            Many    Court	Baseline	    Topspin, Slice, Cuts

@@ -1,0 +1,39 @@
+
+Pickleball Practice Routine:
+    Against Wall:
+        Forehand and Backhand Dink Practice:
+            Repetitions: 50 dinks each side
+        Forehand and Backhand Dink Past Body:
+            Repetitions: 50 dinks each side
+        Volleys:
+            Repetitions: 50 volleys each side
+        Double Tap Volleys:
+            Repetitions: 25 each side
+        Volleys 1, 2, 3 with Resets:
+            Repetitions: 20 - 1s, 15 - 2s, 10 - 3s: each side
+    Ball Machine (if not available most can be done against wall):
+        Forehand and Backhand Return Practice:
+            Repetitions: 50 returns each side
+        Forehand and Backhand Slice Return:
+            Repetitions: 50 returns each side
+        Forehand and Backhand Volley from NVZ:
+            Repetitions: 50 Volleys each side
+        Forehand and Backhand Drop Shot from NVZ:
+            Repetitions: 50 Volleys each side
+        Forehand and Backhand Swinging Volleys:
+            Repetitions: 50 Swinging Volleys each side
+        Forehand and Backhand Drop Shot:
+            Repetitions: 50 drop shots each side
+        Forehand and Backhand Reset shots in the Transition Zone:
+            Repetitions: 50 resets each side
+        Forehand and Backhand 3 Shot Combo:
+            Description: Return, reset, Swinging Volley
+            Repetitions: 20 each side
+        Forehand and Backhand NVZ Hard Line Drive
+            Description: High ball after the bounce in the NVZ
+            Repetitions: 50 each side
+        Overhead Smash:
+            Description: Just like a tennis serve (maybe Backhand)
+            Repetitions: 50
+    Serving Practice:
+        Repetitions: 50 serves each side

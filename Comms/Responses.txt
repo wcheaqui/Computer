@@ -1,0 +1,44 @@
+def responses_load(filename, dictionary, name):
+    """
+    Loads a response file from disc, matches on keys and updates any additional
+    dictionary items that do not match.
+ 
+    Parameters
+    ----------
+    filename : str
+        The name of the file to be loaded
+    dictionary : dict
+        The dictionary containing the keys and values
+    name : str
+        The name of the dictionary
+ 
+    Returns
+    -------
+    dict
+        The updated dictionary
+    """
+    # Read response file
+    with open(filename) as f:
+        response_data = f.readlines()
+    # Iterate over the response data and update the dictionary
+    for response in response_data:
+        key, value = response.split(':')
+        if key in dictionary:
+            dictionary[key] = value
+        else:
+            dictionary[name + '_' + key] = value
+    return dictionary
+def update_python_files(file, path, new_lines):
+    """This function takes a file, path, and new lines and updates the python file with the new lines at the end of the file. 
+    
+    Args: 
+        file (str): Name of the file to update
+        path (str): Path to the file
+        new_lines (str): The new lines to add to the file
+    
+    Returns: 
+        None
+    """
+    with open(path + file, 'a') as f:
+        f.write(new_lines)
+    f.close()
